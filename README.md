@@ -1,4 +1,4 @@
-# Estimador CAG — LIDR AI Engineering
+# AI Project Estimator — LIDR AI Engineering
 
 ## Descripción
 
@@ -20,7 +20,7 @@ El sistema recibe una descripción o transcripción de una reunión con un clien
 ## Arquitectura
 
 ```text
-estimador-cag/
+ai-project-estimator/
 ├── app/
 │   ├── __init__.py
 │   ├── main.py
