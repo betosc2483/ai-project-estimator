@@ -1,0 +1,17 @@
+# Credenciales privadas
+.env
+.env.*
+
+# Permitir la plantilla de ejemplo
+!.env.example
+
+# Entorno virtual
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos del editor
+.vscode/
+.pytest_cache/
